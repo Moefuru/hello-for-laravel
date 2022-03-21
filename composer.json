@@ -1,0 +1,16 @@
+{
+    "name": "12296/src",
+    "description": "用于测试开发拓展包",
+    "authors": [
+        {
+            "name": "ponyJoin",
+            "email": "1229610742@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zrh\\Hello\\": "src/"
+        }
+    }
+}
